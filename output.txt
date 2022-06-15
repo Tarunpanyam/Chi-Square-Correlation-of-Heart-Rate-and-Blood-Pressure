@@ -1,0 +1,22 @@
+Observed Frequencies of Heart rate & BP are as follows: 
+[8 65 32]
+[2 53 50]
+The observed value of Heart rate in between 0-59  : 8
+The observed value of Heart rate in between 60-80: 65
+The observed value of Heart rate in above   80     : 32
+The observed value of BP in between 0-59           : 2
+The observed value of BP in between 60-80         : 53
+The observed value of BP in above 80                 : 50
+Value of Chi-square: 8.77155849524597
+ At Confidence Level 95.0%
+The critical value is 5.991464547107979
+----------------------------------------------------
+Confidence=0.950, critical=5.991, stat=8.772
+Correlation based on probability is as follows: 
+Since Statistical value is greater than Cirtical value : HR and BP are Dependent on each other (reject H0) 
+ significance=0.050, p=0.012453 
+Correlation based on significance is as follows: 
+Since P value is less than significance value : HR and BP are Dependent on each other (reject H0) 
+---------------Correlation strength---------------- 
+ The Cofficient of Correlation is 0.24 , HR and BP have Weakly Correlation
+
